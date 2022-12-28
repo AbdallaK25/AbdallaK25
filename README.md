@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdallaK25
 - 👀 I’m interested in Autopilot Systems in Commercial Aircraft and Qaunt trading systems
-- 🌱 I’m currently learning C++ and C 
+- 🌱 I’m currently learning C++ and Python 
 - 📫 How to reach me. abdallahkhedr119@gmail.com
 
 <!---
